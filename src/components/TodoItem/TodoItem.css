@@ -1,0 +1,37 @@
+.ListItem {
+  background: #fff;
+  color: #46529d;
+}
+
+.ListItem p {
+  margin: 0;
+  text-align: center;
+  padding: 10px 0;
+  border: 0.3px solid #ccc;
+  width: 91%;
+}
+
+.ListItem span {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 20px;
+  border: 0.3px solid #ccc;
+}
+
+.ListItem span.name {
+  width: 45%;
+}
+
+.ListItem span.age {
+  width: 25%;
+}
+
+.ListItem span.action {
+  width: 20%;
+}
+
+.ListItem button {
+  font-size: 18px;
+  margin-left: 40px;
+}

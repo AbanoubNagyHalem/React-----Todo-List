@@ -1,0 +1,11 @@
+form input {
+  padding: 10px;
+  background: #ebebeb;
+  border: transparent;
+  border: 0.3px solid #ccc;
+  width: 31%;
+}
+
+form input.action {
+  width: 20%;
+}
